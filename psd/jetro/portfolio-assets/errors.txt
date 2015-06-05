@@ -1,0 +1,2 @@
+[Thu Jun 04 2015 16:43:37 GMT+0300 (Финляндия (лето))] Layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Thu Jun 04 2015 16:43:37 GMT+0300 (Финляндия (лето))] Layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
